@@ -3,7 +3,7 @@
 /**
  * main - prints the size of a bunch of a data types
  * 
- *  Return: Always 0 (Success)
+ *  Return: 0
  */
 int main(void)
 {
